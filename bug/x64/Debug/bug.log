@@ -1,0 +1,15 @@
+﻿  App.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\d2d1.h(1105): warning C4099: “ID2D1Bitmap”: 类型名称以前使用“class”现在使用的是“struct”
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\d2d1.h(1105): note: 参见“ID2D1Bitmap”的声明
+c:\users\fangdongliu\source\repos\wc\bug\animui\layerstack.h(3): warning C4099: “ID2D1Layer”: 类型名称以前使用“struct”现在使用的是“class”
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\d2d1.h(2331): note: 参见“ID2D1Layer”的声明
+c:\users\fangdongliu\source\repos\wc\bug\animui\layerstack.h(4): warning C4099: “ID2D1RenderTarget”: 类型名称以前使用“struct”现在使用的是“class”
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\d2d1.h(2392): note: 参见“ID2D1RenderTarget”的声明
+c:\users\fangdongliu\source\repos\wc\bug\app.cpp(46): warning C4305: “参数”: 从“double”到“FLOAT”截断
+c:\users\fangdongliu\source\repos\wc\bug\app.cpp(120): warning C4305: “参数”: 从“double”到“FLOAT”截断
+c:\users\fangdongliu\source\repos\wc\bug\app.cpp(176): warning C4305: “参数”: 从“double”到“FLOAT”截断
+c:\users\fangdongliu\source\repos\wc\bug\app.cpp(261): warning C4101: “data”: 未引用的局部变量
+c:\users\fangdongliu\source\repos\wc\bug\app.cpp(465): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\fangdongliu\source\repos\wc\bug\app.cpp(460): warning C4101: “info”: 未引用的局部变量
+c:\users\fangdongliu\source\repos\wc\bug\app.cpp(555): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  bug.vcxproj -> C:\Users\fangdongliu\source\repos\wc\x64\Debug\bug.exe
